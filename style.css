@@ -1,0 +1,103 @@
+.navbar{
+    background-color: rgba(0, 0, 0, .6);
+}
+
+
+
+.contanier{
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    background-image: url(image/shutterstock_277750193.jpg);
+}
+.contanier .navbar .image img{
+    float: left;
+    width: 12%;
+}
+.links{
+    list-style: none;
+    float: right;
+    
+}
+
+li{
+   float: left; 
+   padding: 20px;
+}
+
+.links ul li a{
+    color: aliceblue;
+    text-decoration: none;
+}
+
+.section{
+    text-align: center;
+    color: aliceblue;
+    font-family:unset;
+}
+
+.buttn{
+    border: none;
+    padding: 10px;
+    margin-bottom: 3px;
+}
+
+.buttn1{
+    background-color: rgb(243, 139, 102);
+}
+
+.buttn2{
+    background-color: rgb(86, 207, 197);
+}
+
+.section3 .image1 img{
+    width: 100%;
+    
+}
+
+.clr{
+    clear: both;
+}
+
+.btn{
+    border: none;
+    padding: 10px;
+    background-color: palegreen;
+}
+
+.image1{ 
+    width: 40%;
+    float: left;
+}
+
+.contant{
+    width: 60%;
+    float: left;
+    margin-top: 200px;
+    text-align: center;
+}
+
+.contant h4{
+    color: rgb(209, 87, 39);
+}
+.section4{
+    width: 25%;
+    float: left;
+    text-align: center;
+    
+}
+.line{
+    margin: auto;
+    height: 2px;
+    width: 30%;
+    background-color: rgb(25, 70, 36);
+}
+.section4 .photo img{
+    border-radius: 50%;
+}
+.bac{
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    height: 200px;
+    background-image: url(image/bg.jpg);
+}
+
